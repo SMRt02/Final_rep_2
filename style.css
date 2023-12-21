@@ -123,6 +123,7 @@ body {
         text-align: center;
         width: 700px;
         margin-left: 350px;
+    }
 
     .png2 {
         width: 250px;
@@ -137,17 +138,17 @@ body {
         margin-left: 450px;
     }
 
-    .png6 {
-        width: 250px;
-        height: 250px;
-        margin-left: 575px;
-    }
-
     .png5 {
         font-size: 30px;
         text-align: center;
         width: 500px;
         margin-left: 450px;
+    }
+
+    .png6 {
+        width: 250px;
+        height: 250px;
+        margin-left: 575px;
     }
 
     .png7 {
