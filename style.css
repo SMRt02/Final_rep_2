@@ -107,9 +107,10 @@ body {
     }
    
     .p2 {
-        font-size: 25px;
-        text-align: absolute;
+         font-size: 25px;
+        text-align: center;
         width: 500px;
+        margin-left: 450px;
     }
 
     .png1 {
@@ -131,14 +132,16 @@ body {
 
     .p4 {
         font-size: 30px;
-        text-align: absolute;
+        text-align: center;
         width: 500px;
+        margin-left: 450px;
     }
 
     .png5 {
         font-size: 30px;
-        text-align: absolute;
+        text-align: center;
         width: 500px;
+        margin-left: 450px;
     }
 
     .png6 {
