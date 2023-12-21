@@ -110,7 +110,6 @@ body {
         font-size: 25px;
         text-align: center;
         width: 500px;
-        margin-left: 450px;
     }
 
     .png1 {
@@ -122,7 +121,6 @@ body {
         font-size: 25px;
         text-align: center;
         width: 700px;
-        margin-left: 350px;
     }
 
     .png2 {
@@ -135,14 +133,12 @@ body {
         font-size: 30px;
         text-align: center;
         width: 500px;
-        margin-left: 450px;
     }
 
     .png5 {
         font-size: 30px;
         text-align: center;
         width: 500px;
-        margin-left: 450px;
     }
 
     .png6 {
