@@ -1,9 +1,9 @@
-@media screen and (max-width: 736px) {
-   .body {
+.media screen and (max-width: 736px) {
+    .body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #a5a5a5;
+    background-color: gray;
    }
 }
    .container {
@@ -11,6 +11,7 @@
     margin: 0 auto;
     padding: 20px;
     display: flex;
+    background-color: gray;
    }
    .logo {
     display: block;
@@ -23,6 +24,7 @@
     text-align: center;
     color: #000000;
     font-size: 50px;
+    background-color: gray;
    }
    
    p {
@@ -34,16 +36,19 @@
     border-radius: 50px;
     padding: 20px;
     margin-bottom: 20px;
+    background-color: gray;
    }
    
    .img-container {
     text-align: center;
     margin-bottom: 2px;
+    background-color: gray;
    }
    
    .img-container img {
     max-width: 100%;
     height: auto;
+    background-color: gray;
    }
 
 
@@ -53,17 +58,20 @@
    #header {
     height: 85px; /* Высота слоя */
     border-bottom: 2px solid #ffffff;
+    background-color: gray;
    }
    #header h1 { padding: 20px; margin: 0; }
    #sidebar { 
     width: 136px; border-right: 1px;
     top: 119px; /* Расстояние от верхнего края */ 
     bottom: 50px; /* Расстояние снизу  */
+    background-color: gray;
    }
    #content {
     top: 85px; /* Расстояние от верхнего края */
     left: 170px; /* Расстояние от левого края */ 
     bottom: 0; right: 0;
+    background-color: gray;
    }
 
    .sidebar{ 
@@ -77,16 +85,19 @@
     margin-left: 250px;
     text-decoration: none;
     color: black;
+    background-color: gray;
     }
 
     .aside {
     text-decoration: none;
     color: black;
     transition: all 0.2s ease;
+    background-color: gray;
     }
 
     .aside:hover {
         color: mediumblue;
+        background-color: gray;
     }  
 
     .future {
@@ -104,6 +115,7 @@
         width: 20px;
         height: 20px;
         margin: 0;
+        background-color: gray;
     }
    
     .p2 {
@@ -198,6 +210,7 @@
   /* Decorative styles */
   body {
     display: grid;
+    background-color: gray;
   }
    
   .biba {
