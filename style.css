@@ -108,32 +108,46 @@ body {
    
     .p2 {
         font-size: 25px;
-        text-align: left;
+        text-align: center;
+        width: 500px;
+        margin-left: 450px;
     }
 
     .png1 {
-        width: 1500px;
-        height: 350px;
+        width: 250px;
+        height: 250px;
     }
 
     .p3 {
         font-size: 25px;
-        text-align: left;
-    }
+        text-align: center;
+        width: 700px;
+        margin-left: 350px;
 
     .png2 {
-        width: 1475px;
-        height: 650px;
+        width: 250px;
+        height: 250px;
+        margin-left: 575px;
     }
 
     .p4 {
         font-size: 30px;
         text-align: center;
+        width: 500px;
+        margin-left: 450px;
     }
 
     .png6 {
-        width: 1475px;
-        height: 400px;
+        width: 250px;
+        height: 250px;
+        margin-left: 575px;
+    }
+
+    .png5 {
+        font-size: 30px;
+        text-align: center;
+        width: 500px;
+        margin-left: 450px;
     }
 
     .png7 {
